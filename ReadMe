@@ -1,0 +1,42 @@
+| ![image](https://user-images.githubusercontent.com/75413685/145682663-72a8a5c7-ef9f-403a-ab45-cf9122ecb27f.png) |
+| --- |
+
+### Hello World 👋
+```py
+class WhoAmI:
+
+    ''' About myself '''
+    
+    user = "A AJAY"
+    edu_status = "Pursuing B.E. in ECE."
+    edu_institution = "KINGS COLLEGE OF ENGINEERING, Thanjavur."
+  
+    passion = [
+        "Explore Info Tech",
+        "To attain a Software Developer role",
+        "In IIoT field",
+        "Helping others to get started"
+      ]
+   
+    def get_activities():
+    
+        ''' Returns (exp: list) : Participation in technical communities. '''
+        
+        exp = [
+           "One of active Developer of KCE WEBPAGE",
+           "Core Team Member, Google Developer Students Club - KCE."
+         ]
+         
+        return exp
+```
+
+
+<br>
+
+## Languages and Tools :
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+<br>
+
+## Connect with me :
+<a href="www.linkedin.com/in/ajay-arumugam-9349521aa"> ![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn)</a>
